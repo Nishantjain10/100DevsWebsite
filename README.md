@@ -68,6 +68,7 @@ npm install
 ```bash
 VITE_APPWRITE_PROJECT_ID=your_project_id
 VITE_APPWRITE_DATABASE_ID=your_database_id
+VITE_APPWRITE_ENDPOINT=your_endpoint
 ```
 
 4. Start the development server:
